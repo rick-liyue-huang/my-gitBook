@@ -1,5 +1,5 @@
 # my-gitBook
-a link to [my articles][id] in my space of gitbook.com
+A link to [my articles][id] in my space of gitbook.com
 
 These articles contain the Ajax, Modularizatioin, Node.js, and so on.. 
 
